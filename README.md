@@ -1,1 +1,1 @@
-# Hi! welcome to my python codes. You can find my codes above! Happy Learning.
+# Hi! welcome to my codes of python basics. feel free to refer to it anytime. happy learning!
